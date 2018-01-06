@@ -1,0 +1,8 @@
+E:\3. Sinh viên Năm 3 - kì 2\2. Nhập môn ATTT\2.Demo\Ransomware_1\Ransomware_1\bin\Debug\Ransomware_1.exe.config
+E:\3. Sinh viên Năm 3 - kì 2\2. Nhập môn ATTT\2.Demo\Ransomware_1\Ransomware_1\bin\Debug\Ransomware_1.exe
+E:\3. Sinh viên Năm 3 - kì 2\2. Nhập môn ATTT\2.Demo\Ransomware_1\Ransomware_1\bin\Debug\Ransomware_1.pdb
+E:\3. Sinh viên Năm 3 - kì 2\2. Nhập môn ATTT\2.Demo\Ransomware_1\Ransomware_1\obj\Debug\Ransomware_1.csprojResolveAssemblyReference.cache
+E:\3. Sinh viên Năm 3 - kì 2\2. Nhập môn ATTT\2.Demo\Ransomware_1\Ransomware_1\obj\Debug\Ransomware_1.Properties.Resources.resources
+E:\3. Sinh viên Năm 3 - kì 2\2. Nhập môn ATTT\2.Demo\Ransomware_1\Ransomware_1\obj\Debug\Ransomware_1.csproj.GenerateResource.Cache
+E:\3. Sinh viên Năm 3 - kì 2\2. Nhập môn ATTT\2.Demo\Ransomware_1\Ransomware_1\obj\Debug\Ransomware_1.exe
+E:\3. Sinh viên Năm 3 - kì 2\2. Nhập môn ATTT\2.Demo\Ransomware_1\Ransomware_1\obj\Debug\Ransomware_1.pdb
